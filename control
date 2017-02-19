@@ -1,0 +1,9 @@
+Package: com.fpt.messagefilter
+Name: MessageFilter
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Blacklist and whitelist words for certain conversations.
+Maintainer: Frozen Penguin
+Author: Frozen Penguin
+Section: Tweaks
